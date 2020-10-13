@@ -1,0 +1,36 @@
+.working-exp{
+    color: white;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    height: 1200px;
+    width: 97%;
+}
+
+.working-exp h3{
+    margin-left: 15px;
+}
+.working-exp span{
+    font-size: 13px;
+    margin-left: 59px;
+}
+.present h5{
+    color: gray;
+    margin-top: 30px;
+    margin-left: 54px;
+}
+.present li{
+    
+    margin-top: 10px;
+    margin-left: 100px;
+    line-height: 1.2;
+
+}
+
+.wave-comp{
+    border: 1px dashed rgb(134, 128, 128); 
+    width: 50%; 
+    margin:auto;
+     margin-top: 5%;
+      margin-bottom: 5%;
+}

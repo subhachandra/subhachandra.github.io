@@ -1,0 +1,26 @@
+.professional-summary{
+   
+    color: white;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    height: 518px;
+    width: 97%;
+   
+}
+
+.header{
+    margin-left: 15px;
+}
+.professional-summary li{
+    margin-left: 40px;
+    line-height: 2;
+    
+}
+.wave-comp{
+    border: 1px dashed rgb(134, 128, 128); 
+    width: 50%; 
+    margin:auto;
+     margin-top: 5%;
+      margin-bottom: 5%;
+}
