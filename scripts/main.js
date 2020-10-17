@@ -46,10 +46,19 @@ $('html, body').animate({
   function startTime()  
   {  
 var today = new Date();  
-var h = today.getHours();  
+var hh = today.getHours();  
 var m = today.getMinutes();  
 var s = today.getSeconds();  
-			var ampm = h >= 12 ? 'PM' : 'AM';
+var ampm ="AM";
+  var h = hh;
+  if (h >= 12) {
+    h = hh - 12;
+    ampm = "PM";
+  }
+  if (h == 0) {
+    h = 12;
+  }
+
 var d = new Date();  
 var n = d.getDate();  
 var month = new Array();  
