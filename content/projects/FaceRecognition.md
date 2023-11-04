@@ -1,7 +1,7 @@
 ---
 date: '2019-12-12'
 title: 'Face Recognition in Python'
-github: 'https://github.com/subhahandra/Face-Recognition-in-Python'
+github: 'https://github.com/subhachandraa/Face-Recognition-in-Python'
 external: ''
 tech:
   - Python

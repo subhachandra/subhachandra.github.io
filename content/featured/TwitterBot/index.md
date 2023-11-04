@@ -2,7 +2,7 @@
 date: '2'
 title: 'GirlScript Twitter Bot'
 cover: 'bot.png'
-github: 'https://github.com/subhahandra/Girlscript-Twitter-Bot'
+github: 'https://github.com/subhachandraa/Girlscript-Twitter-Bot'
 external: 'https://twitter.com/girlscript_bot'
 tech:
   - Python

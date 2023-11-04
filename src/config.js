@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Subha Chandra is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Subha Chandra, Chandrika, Deb, subhahandra, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
+    'Subha Chandra, Chandrika, Deb, subhachandra, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
   siteUrl: 'https://subhachandra.github.io',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
@@ -11,12 +11,12 @@ module.exports = {
   name: 'Subha Chandra',
   location: 'Jamshedpur, India',
   email: 'jsubhachandra@gmail.com',
-  github: 'https://github.com/subhahandra',
-  twitterHandle: '@subhahandra',
+  github: 'https://github.com/subhachandra',
+  twitterHandle: '@subhachandra',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/subhahandra',
+      url: 'https://github.com/subhachandra',
     },
     {
       name: 'Linkedin',
@@ -24,15 +24,15 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/subhahandra',
+      url: 'https://codepen.io/subhachandra',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/subhahandra',
+      url: 'https://www.instagram.com/subhachandra',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/subhahandra',
+      url: 'https://twitter.com/subhachandra',
     },
   ],
 

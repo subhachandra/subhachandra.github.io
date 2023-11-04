@@ -1,7 +1,7 @@
 ---
 date: '2019-05-31'
 title: 'My Online Store'
-github: 'https://github.com/subhahandra/MyOnlineStore'
+github: 'https://github.com/subhachandra/MyOnlineStore'
 external: ''
 tech:
   - PHP

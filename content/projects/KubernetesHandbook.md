@@ -1,7 +1,7 @@
 ---
 date: '2021-08-02'
 title: 'Kubernetes Handbook'
-github: 'https://github.com/subhahandra/kubernetes-handbook'
+github: 'https://github.com/subhachandra/kubernetes-handbook'
 external: 'https://amdocs-1.gitbook.io/kubernetes-handbook/'
 tech:
   - Kubernetes

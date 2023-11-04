@@ -1,7 +1,7 @@
 ---
 date: '2019-04-30'
 title: 'Student Management System'
-github: 'https://github.com/subhahandra/StudentManagementSystem'
+github: 'https://github.com/subhachandraa/StudentManagementSystem'
 external: ''
 tech:
   - Java

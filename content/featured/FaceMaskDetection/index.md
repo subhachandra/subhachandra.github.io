@@ -2,7 +2,7 @@
 date: '3'
 title: 'Face Mask Detection'
 cover: 'face-mask.png'
-github: 'https://github.com/subhahandra/Face-Mask-Detection'
+github: 'https://github.com/subhachandra/Face-Mask-Detection'
 external: 'https://www.youtube.com/watch?v=AAkNyZlUae0'
 tech:
   - OpenCV
