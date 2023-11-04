@@ -1,7 +1,7 @@
 ---
 date: '2020-09-16'
 title: '100DaysOfCode'
-github: 'https://github.com/chandrikadeb7/100DaysOfCode'
+github: 'https://github.com/subhahandra/100DaysOfCode'
 external: ''
 tech:
   - Kotlin/Java

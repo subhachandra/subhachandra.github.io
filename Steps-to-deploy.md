@@ -2,7 +2,7 @@
 
   - git clone
 
-  - cd chandrikadeb7.github.io
+  - cd subhachandra.github.io
 
   - source ~/.nvm/nvm.sh
 
@@ -12,7 +12,8 @@
 
   - yarn
 
-  - npm install -g gatsby-cli
+  - 
+  
 
   - npm install
 
