@@ -6,5 +6,6 @@ range: 'June 2017 - April 2019'
 url: 'https://www.sonata-software.com/'
 ---
 
-- Drafted all the website content and promotional templates on HubSpot for the startup.
-- Reviewed the tech blogs and helped the Sales & Marketing Team.
+- Writing REST/SOAP services to book the slots and deployed the project using Jenkins.
+- Finding new tool and technologies and doing proof of concept for those.
+- Saved Application response time.
