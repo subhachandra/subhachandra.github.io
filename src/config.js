@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Subha Chandra is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Subha Chandra, Chandrika, Deb, subhachandra, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
+    'Subha Chandra, Subha , Chandra, subhachandra, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
   siteUrl: 'https://subhachandra.github.io',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
@@ -20,19 +20,19 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/jsubhachandra/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/subhachandra',
+      name: 'Leetcode',
+      url: 'https://leetcode.com/jsubhachandra/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/subhachandra',
+      url: 'https://www.instagram.com/jsubhachandra/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/subhachandra',
+      url: 'https://twitter.com/jsubhachandra',
     },
   ],
 
