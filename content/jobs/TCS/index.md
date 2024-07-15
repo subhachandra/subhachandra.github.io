@@ -1,9 +1,9 @@
 ---
 date: '2021-06-14'
 title: 'Software Engineer'
-company: 'Tata Consultancy Services'
+company: 'Lowes India Pvt Ltd'
 range: 'June 2021 - Present'
-url: 'https://www.tcs.com'
+url: ''
 ---
 
 - Played key role in Enterprise application design, build and development.
