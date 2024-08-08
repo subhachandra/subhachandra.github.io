@@ -1,7 +1,7 @@
 ---
 date: '2021-06-14'
 title: 'Software Engineer'
-company: 'Tata Consultancy Services India Pvt Ltd'
+company: 'LOWES India Pvt Ltd'
 range: 'June 2021 - Present'
 url: ''
 ---
